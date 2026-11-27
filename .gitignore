@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+output.txt
+*.db
+.DS_Store
+*.pdf
